@@ -1,5 +1,6 @@
 __pycache__/
 
-input/
+input/*
+output/files/*
 
 .env
